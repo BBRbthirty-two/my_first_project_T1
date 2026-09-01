@@ -1,4 +1,4 @@
-	class Main {
+	class exercicio2N2 {
 		public static void main (String[] args) {
 
 		boolean A = true;

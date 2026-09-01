@@ -1,4 +1,4 @@
-	class Main {
+	class exercicio1N3 {
 		public static void main (String[] args) {
 
 		float p1 = 75.5f;

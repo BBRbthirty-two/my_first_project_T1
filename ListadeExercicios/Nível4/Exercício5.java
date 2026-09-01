@@ -1,4 +1,4 @@
-class Main { 
+class exercicio5N4 { 
     public static void main(String[] args) {
 
     double Val1, Val2;

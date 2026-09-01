@@ -1,4 +1,4 @@
-	class Main {
+	class exercicio4N1 {
 		public static void main (String[] args) {
 				float varS = 2.7f;
 				int varI = (int) varS; // casting explícito

@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
 
-class Main { 
+class exercicio2N4 { 
     public static void main(String[] args) {
     System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
     Scanner entrada = new Scanner(System.in);

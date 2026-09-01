@@ -1,4 +1,4 @@
-	class Main {
+	class exercicio2N1 {
 		public static void main (String[] args) {
 			double valorDouble = 25.7;
 			int valorInt = (int) valorDouble;
