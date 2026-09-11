@@ -1,3 +1,4 @@
+package ListadeExercicios.Nível5;
 import java.util.Locale;
 import java.util.Scanner;
 class exercicio1N5 {
